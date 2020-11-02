@@ -1,0 +1,2 @@
+# This file contains the offset values to calibrate the individual temperature sensors:
+-0.188	-0.102	0.078	-0.012	0.250	-0.025
